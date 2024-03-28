@@ -1,4 +1,5 @@
 # Jogo Campo Minado em Java e teste com JUnit5
+![GIF](campo_minado_demostracao.gif)
 
 Este projeto consiste na implementação do clássico jogo Campo Minado em Java, utilizando a biblioteca JUnit5 para testes unitários e o sistema de build Maven. A aplicação foi desenvolvida para ser executada no console.
 
